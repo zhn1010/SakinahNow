@@ -4,7 +4,8 @@ import { CheckIcon, MagicStarsIcon } from '@/components/icons';
 import { ChatShell } from '@/components/chat-shell';
 import type { QfSessionSummary } from '@/lib/qf-user';
 
-const CHROME_WEB_STORE_URL = 'https://chromewebstore.google.com/detail/sakinah-now/placeholder';
+const CHROME_WEB_STORE_URL =
+  'https://chromewebstore.google.com/detail/sakinahnow/pkaienmnfijgpcgogbgelidkbhmmifke';
 
 const installSteps = [
   {
